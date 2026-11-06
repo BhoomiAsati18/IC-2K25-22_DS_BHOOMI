@@ -21,6 +21,7 @@ int main() {
         swap(a[i], a[minIndex]);
     }
 
+
     for (int i = 0; i < n; i++)
         cout << a[i] << " ";
 
